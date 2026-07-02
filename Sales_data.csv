@@ -1,0 +1,8 @@
+OrderID,OrderDate,Region,Product,Sales,Quantity
+1001,2024-01-01,North,Laptop,50000,2
+1002,2024-01-05,South,Mouse,800,5
+1003,wrong-date,East,Keyboard,1500,3
+1004,2024-01-10,West,Monitor,-12000,1
+1005,2024-01-12,North,Laptop,50000,2
+1005,2024-01-12,North,Laptop,50000,2
+1006,,South,Mouse,,4
